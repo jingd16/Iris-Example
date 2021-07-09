@@ -1,4 +1,4 @@
-This is a test project to deploy a simple Machine Learning Model to Heroku. 
+This is a test project to deploy a simple Machine Learning Model with Flask to Heroku.
 
 Step 1:
 Train a ML model using Iris.csv
